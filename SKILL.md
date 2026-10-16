@@ -1,6 +1,6 @@
 ---
 name: prompt-extensao
-description: Pega o contexto do trabalho em andamento (conversa, memória, planos, arquivos alterados) e escreve um prompt pronto para colar no Claude in Chrome (a extensão do navegador), que executa sozinho a parte que precisa de navegador — cliques em painéis da Supabase, Vercel, Cloudflare, Google, etc. Use quando o Rodrigo pedir "prompt para a extensão", "manda pra extensão", "gera o prompt pro Chrome", ou /prompt-extensao.
+description: Pega a tarefa que está sendo falada na conversa (ou o projeto todo, se o Rodrigo pedir) e escreve um prompt pronto para colar no Claude in Chrome (a extensão do navegador), que executa sozinho a parte que precisa de navegador — cliques em painéis da Supabase, Vercel, Cloudflare, Google, etc. Use quando o Rodrigo pedir "prompt para a extensão", "manda pra extensão", "gera o prompt pro Chrome", ou /prompt-extensao.
 ---
 
 # Prompt para a extensão (Claude in Chrome)
